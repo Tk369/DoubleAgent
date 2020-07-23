@@ -1,6 +1,8 @@
 # DoubleAgent
 DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e. auto-run).
 
+Look like https://sensepost.com/blog/2020/masquerading-windows-processes-like-a-doubleagent./
+
 DoubleAgent can exploit:
 
 * Every Windows version (Windows XP to Windows 10)
